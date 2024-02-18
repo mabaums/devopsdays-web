@@ -9,7 +9,7 @@ This year's event will happen at <a href="https://norriscenters.com/norris-confe
 <br/>Houston, Texas 77024
 <br/>
 
-{{< event_map >}}
+<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=Norris%20Conference%20Center%20houston&key=AIzaSyAoDbAJJxdl0bT3nngEkQS75EEUQcaPj3w" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 <!-- {{< event_map >}} -->
 
