@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Houston 2024"
 +++
 
-##### We greatly value sponsors for this open event. Please see our <a href="https://assets.devopsdays.org/events/2022/houston/devopsdays-houston-2024-prospectus.pdf">Sponsorship Prospectus</a> for details about the event and sponsorship levels. If you have any questions, please drop us an email at [{{< email_organizers >}}].
+##### We greatly value sponsors for this open event. Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devopsdays-houston-2024-prospectus.pdf">Sponsorship Prospectus</a> for details about the event and sponsorship levels. If you have any questions, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
@@ -20,7 +20,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <hr/>
 <div style="width:800px">
 <h2>Sponsorship Levels</h2>
-Please see our <a href="https://assets.devopsdays.org/events/2022/houston/devopsdays-houston-2024-prospectus.pdf">Sponsorship Prospectus</a> for more details about the event and sponsorship levels.
+Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devopsdays-houston-2024-prospectus.pdf">Sponsorship Prospectus</a> for more details about the event and sponsorship levels.
 
 
 <table border=1 cellspacing=1>
